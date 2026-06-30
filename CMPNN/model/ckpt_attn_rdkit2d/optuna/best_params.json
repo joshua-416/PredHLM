@@ -1,0 +1,14 @@
+{
+  "hidden_size": 384,
+  "max_lr": 0.0015390473901264851,
+  "init_lr_ratio": 0.15446941012225454,
+  "final_lr_ratio": 0.004102431887951974,
+  "depth": 2,
+  "dropout": 0.2498513993197674,
+  "ffn_num_layers": 3,
+  "ffn_hidden_size": 512,
+  "activation": "ReLU",
+  "batch_size": 128,
+  "warmup_epochs": 3.0,
+  "attention_dim": 32
+}

@@ -1,0 +1,17 @@
+name: cmpnn-hlm
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - pip
+  - pip:
+      - torch==2.5.1
+      - rdkit==2026.3.2
+      - mordredcommunity==2.0.7
+      - numpy==2.2.6
+      - pandas==2.3.3
+      - scikit-learn==1.7.2
+      - networkx==3.4.2
+      - optuna==4.8.0
+      - tqdm==4.67.3
