@@ -12,7 +12,7 @@
 
 ## Publication
 
-> Jidon Jang, Nam-Chul Cho, Kwang-Seok Oh, **"PredHLM: an interpretable machine-learning model for quantitative half-life prediction in human liver microsomes"** (in preparation)
+> Jidon Jang, Nam-Chul Cho, Kwang-Seok Oh, **"PredHLM: quantitative and interpretable prediction of metabolic half-life in human liver microsomes"**, bioRxiv (2026). https://doi.org/10.64898/2026.07.02.736062
 
 Please cite this paper if you use the code or model.
 
